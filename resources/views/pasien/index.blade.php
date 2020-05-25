@@ -5,8 +5,8 @@
 <title>Admin</title>
 
 <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no" />
-<link rel="stylesheet" type="text/css" href="{{ asset('css/admin.css')}}" />
-<link rel="stylesheet" type="text/css" href="{{ asset('css/bootstrap.css')}}" />
+<link rel="stylesheet" type="text/css" href="{{ secure_asset('css/admin.css')}}" />
+<link rel="stylesheet" type="text/css" href="{{ secure_asset('css/bootstrap.css')}}" />
 
 </head>
 
